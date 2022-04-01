@@ -40,13 +40,14 @@ Here are some ideas to get you started:
 > 
 > January 2017 -December 2016
 
+<!--
 > Kangnam University
 > 
 > Department of `ICT Construction Convergence Welfare`
 > 
 > Degree of `Library & Information Science` 
 > 
->February 2018 - March 2013
+>February 2018 - March 2013 -->
 
 
 
